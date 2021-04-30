@@ -1,0 +1,45 @@
+
+#gallery{
+	width: 75%;
+	height: 100%;
+	margin: auto;
+
+}
+
+.contact-gallery {
+	padding-top: 500px;
+	
+}
+
+.masthead h1 {
+  font-size: 6.5rem;
+  line-height: 9.5rem;
+  letter-spacing: 0.8rem;
+}
+
+
+#gallerybtn {
+	margin: -10% 0px 0px 45%;
+	width: 10%;
+  
+}
+#gallerybtn2 {
+	margin: 0% 10px 0px 40%;
+	width: 10%;
+	height: 20%;
+}
+#indexbtn {
+	margin: 10% 0px 10px 0px%;
+	width: 13%;
+}
+
+#contact {
+	margin: -10% 0px 0px 25%;
+  
+}
+
+
+#texto {
+	margin: 5% 0px 0px 25%;
+  
+}
